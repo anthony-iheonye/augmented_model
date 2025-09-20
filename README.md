@@ -74,4 +74,4 @@ pip install -r requirements.txt
 
 Explore the full workflow (data, preview, training, segmentation demo) in the notebook:
 
-- **Dual Augmentation Demo Notebook:** `notebooks/augmented_model_demo.ipynb` *(update the path/name if different)*
+- **Dual Augmentation Demo Notebook:** `augmented_model_demo.ipynb` *(update the path/name if different)*
